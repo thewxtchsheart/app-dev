@@ -1,4 +1,6 @@
 ### *app-dev*
+![](https://github.com/user-attachments/assets/982307d9-0682-4ff9-a81d-476efb646175)
+
 # **The Amazing worlld of Gumball**
 ---
 ## 6 seasons
